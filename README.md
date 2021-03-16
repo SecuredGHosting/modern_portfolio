@@ -3,8 +3,8 @@ I have build a responsive website that will display images. links and descriptio
 This is my first portfolio project.
 
 # Basic Information
-Domain: sghosting.live
-Hosted using GitHub pages
+> Domain: sghosting.live
+> Hosted using GitHub pages
 
 
 # Files Included
